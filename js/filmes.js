@@ -13,3 +13,6 @@ export async function getFilmeByID(id){
 
     return data.filme[0] 
 }
+
+
+export async
